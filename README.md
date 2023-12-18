@@ -1,5 +1,5 @@
 # 全球优质稳定的OpenAI的API接口-For企业和开发者
-DuckAGI & Neuronicx GPT-4 API中转站
+Neuronicx - GPT-4 API中转站
 官网：https://duckagi.com
 #### 介绍
 为全球企业和开发者提供优质稳定的OpenAI相关的API调用接口。    
