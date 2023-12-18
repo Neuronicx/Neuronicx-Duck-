@@ -1,6 +1,6 @@
 # 全球优质稳定的OpenAI的API接口-For企业和开发者
 DuckAGI & Neuronicx GPT-4 API中转站
-DuckAGI官网：https://duckagi.com
+官网：https://duckagi.com
 #### 介绍
 为全球企业和开发者提供优质稳定的OpenAI相关的API调用接口。    
 DuckAGI-新加坡大模型的API接口服务商，提供ChatGPT的API调用，支持OpenAI全部的最新API接口，包括：gpt-4-1106，gpt-4-vision, gpt-4，gpt-3.5等。          
@@ -10,8 +10,10 @@ DuckAGI-新加坡大模型的API接口服务商，提供ChatGPT的API调用，�
 通通不用的，直接调用就行，简单直接，关键稳定好用！！  
 支持openai的中国大陆国内代理，接口请求转发直接转发无限制     
 
-我们先来看看效果，可以直接对接秒输出DELL-3图片和分析图片
+我们先来看看效果，可以直接对接秒输出DELL-3图片和秒分析图片
 
+![photo_2023-11-13_20-28-04](https://github.com/Neuronicx/Neuronicx-Duck-/assets/154244237/3455961e-45ad-42bb-a98e-7cc104b2756d)
+![photo_2023-11-30_12-28-59](https://github.com/Neuronicx/Neuronicx-Duck-/assets/154244237/7c77bf68-1406-4bd4-9127-3078a02ef309)
 
 
 - **项目主要优势**  
@@ -37,8 +39,8 @@ DuckAGI-新加坡大模型的API接口服务商，提供ChatGPT的API调用，�
 
  
 - **注意事项**   
-1、以下所有接口的base_url: `https://api.duckagi.com/` （支持https）<br>
-2、API通过HTTP请求调用。每次请求，需要在HTTP头中携带用户的API_KEY，用于认证。 开发者单独的API_KEY，请从DuckAGI管理后台获得。 
+1、以下所有接口的base_url: `https://api.duckagi.com/` <br>
+2、API通过HTTPS请求调用。每次请求，需要在HTTPS头中携带用户的API_KEY，用于认证。 开发者单独的API_KEY，请从DuckAGI管理后台获得。 
  
 3、更多细节请详见官网https://duckagi.com
 ## 更详细的API说明 ## 
