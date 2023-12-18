@@ -35,7 +35,8 @@ DuckAGI-新加坡大模型的API接口服务商，提供ChatGPT的API调用，�
    DuckAGI-新加坡大模型的API接口服务商  
    开发者单独的Secret Key、调用记录、微调模型、余额查询、示例代码等可以从管理后台中获取。        
 2、全球Telegram交流群（如果你也对本项目感兴趣，欢迎加入群聊参与讨论交流）：    
-
+https://t.me/Neuronicx8
+![QQ截图20231218224943](https://github.com/Neuronicx/Neuronicx-Duck-/assets/154244237/8a053e77-0233-481e-9eda-fb8b3695138c)
 
  
 - **注意事项**   
